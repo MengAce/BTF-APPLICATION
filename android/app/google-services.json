@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208217062548",
+    "project_id": "btf-database-2719b",
+    "storage_bucket": "btf-database-2719b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208217062548:android:ca1c1044f120167eda4881",
+        "android_client_info": {
+          "package_name": "com.mycompany.btfmaintenanceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJffJOpGhCZCCwjVA8aCk4_Ae_3F0wNN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

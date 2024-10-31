@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "report",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "userEmail",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "inspectionDate",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}
